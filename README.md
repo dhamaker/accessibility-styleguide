@@ -15,7 +15,7 @@ Simple example of an accessibility styleguide leverageing GitHub for collaborati
 
 
 ## Site Map
-A two level hierarchy based on users mental model.  Your team may need more than one index.  Jekyll supports supports tags and cateogy classification for more ad hoc organization.  These can be used to create custom indexes.
+A two level hierarchy based on users mental model.  Your team may need more than one index.  Jekyll supports supports tags and cateogy facets for more ad hoc organization.  These can be used to organize patterns for differnet audiences or activities.
 
 1. Overview 
 2. Navigation Category
