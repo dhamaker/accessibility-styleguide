@@ -1,14 +1,14 @@
 # Breadcrumb
-// UX team:  description of purpose and behavior (browse path, hierarchical, other)
+> UX team provides description of pattern purpose and behavior (browse path, hierarchical, other)
 
 ## Example
-// embed picture of breadcrumb for easy identification
+> UX team provides illustratoin of breadcrumb for easy identification
 
 ## Usage
-// UX team: guidelines for  using component
+> UX team outlines guidelines for component use and related concerns.
 
  * Use to indicate the current site hierarchy location to users.
- * // other usage guidelines.
+> *  other usage guidelines.
 
 ## Accessibility Guideline
 Breadcrumbs are custom components that need extra ARIA semantics to be accessible.
@@ -33,10 +33,10 @@ Breadcrumbs are custom components that need extra ARIA semantics to be accessibl
 
 
 ## Interactive Demo
-// Embed or link to working code sample
+> Embed or link to working code sample
 
 ## Code Sample
-// Reference to your framework API docs or library.
+> Reference to your framework API docs or library.
 
 OR
 
