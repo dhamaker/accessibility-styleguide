@@ -15,15 +15,15 @@ Simple example of an accessibility styleguide leverageing GitHub for collaborati
 * GitHub provides issues tracking and assignment to help you manage your style guide.
 
 
-## Site Map
+## Sample Site Map 
 A two level hierarchy based on users mental model.  Your team may need more than one index.  Jekyll supports supports tags and cateogy facets for more ad hoc organization.  These can be used to organize patterns for differnet audiences or activities.
 
 1. Overview 
 2. Navigation Category
     1. [Pattern Detail - Breadcrumb](breadcrumb)
     2. [Pattern Detail - Template](template-pattern-detail)
-    3. Next pattern
-3. Next Category
+    3. Next Pattern...
+3. Next Category...
 
 ## References
 * [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
