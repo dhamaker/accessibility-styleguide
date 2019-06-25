@@ -1,7 +1,7 @@
 # Accessibilty Style Guide
 Simple example of an accessibility styleguide leverageing GitHub for collaboration, version control, and hosting of static site.
 
-*  (Example site)[https://dhamaker.github.io/accessibility-styleguide/] uses stock Slate theme.
+*  [Example site](https://dhamaker.github.io/accessibility-styleguide/) uses stock Slate theme.
 
 
 ## Site Map
