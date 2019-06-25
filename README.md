@@ -2,7 +2,7 @@
 Simple example of an accessibility styleguide leverageing GitHub for collaboration, version control, and hosting of static site.
 
 * [Example site](https://dhamaker.github.io/accessibility-styleguide/) uses stock Slate theme.  Other themes are available, or
-* You can create custom themes using (Jeckyll)[https://jekyllrb.com/].  Jeckyll is an open source static site generator.
+* You can create custom themes using [Jeckyll](https://jekyllrb.com/).  Jeckyll is an open source static site generator.
 * The site refreshes automatically when you commit to the master branch. 
 * Example is public, but you can control access on you own, or host the site yourself.
 * GitHub enables collaboration allowing two contributers to work on the same file at the same time by creating a working draft and then submitting it to the maintainer for review when the are done.
@@ -15,7 +15,7 @@ Simple example of an accessibility styleguide leverageing GitHub for collaborati
 A two level hierarchy based on users mental model.  Your team may need more than one index.  Jekyll supports supports tags and cateogy classification for more ad hoc organization.  These can be used to create custom indexes.
 
 1. Overview 
-2. (Navigation Category)[categories/navigation]
+2. Navigation Category
   1. [Pattern Detail - Breadcrumb](breadcrumb.md)
   2. Next pattern
 3. Next Category
