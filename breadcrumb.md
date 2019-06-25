@@ -1,6 +1,7 @@
 ---
 title: Breadcrumb
-tags: navigation, links
+categories: navigation
+tags: links lists location
 ---
 # {{page.title}}
 
