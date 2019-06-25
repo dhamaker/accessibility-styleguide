@@ -7,24 +7,26 @@ tags:
 # {{page.title}}
 Tags: {{page.tags}}
 
-[Pattern description]
+[Design pattern description]
 
 ## Example
-[Pattern illustration]
+[Design pattern illustration]
 
 ## Usage
-* [Patturn usage guidelines]
+* [Pattern usage guidelines]
 
 ## Accessibility Guideline
-
+[Accessibilty best practices]
 
 <details>
   <summary>References</summary>
   <ul>
-    <li><a href="#">Link</a> - description</li>
+    <li><a href="#">Accessibilty references</a> - description</li>
    </ul>
 </details>
 
 ## Interactive Demo
+[live demo or link(s)]
 
 ## Code Sample
+[code sample or link(s)]
