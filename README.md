@@ -1,7 +1,7 @@
 # Accessibilty Style Guide
 Simple example of an accessibility styleguide leverageing GitHub for collaboration, version control, and hosting of static site.
 
-## A Living Guideine
+## A Living Guideline
 * [Example site](https://dhamaker.github.io/accessibility-styleguide/) uses stock Slate theme.  Other themes are available, or
 * You can  customize and themes the expierence using [Jeckyll](https://jekyllrb.com/), an open source static site generator.
 * The site refreshes automatically when you commit new files to the master branch. 
