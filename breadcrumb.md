@@ -5,7 +5,7 @@ tags: links lists location
 ---
 # {{page.title}}
 
-{{page.tags}}
+Tags: {{page.tags}}
 
 > UX team provides description of pattern purpose and behavior (browse path, hierarchical, other)
 
