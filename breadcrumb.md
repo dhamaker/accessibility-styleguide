@@ -8,7 +8,7 @@
 > UX team outlines guidelines for component use and related concerns.
 
  * Use to indicate the current site hierarchy location to users.
-> *  other usage guidelines.
+ * more...
 
 ## Accessibility Guideline
 Breadcrumbs are custom components that need extra ARIA semantics to be accessible.
