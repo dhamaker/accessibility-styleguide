@@ -16,9 +16,9 @@ A two level hierarchy based on users mental model.  Your team may need more than
 
 1. Overview 
 2. Navigation Category
-  1. [Pattern Detail - Breadcrumb](breadcrumb.md)
-  2. [Pattern Template](_template-pattern-detail.md)
-  2. Next pattern
+    1. [Pattern Detail - Breadcrumb](breadcrumb.md)
+    2. [Pattern Template](_template-pattern-detail.md)
+    3. Next pattern
 3. Next Category
 
 ## References
