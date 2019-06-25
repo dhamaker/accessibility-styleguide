@@ -1,6 +1,8 @@
 # Accessibilty Style Guide
 Simple example of an accessibility styleguide leverageing GitHub for collaboration, version control, and hosting of static site.
 
+*  (Example site)[] uses stock Slate theme.
+
 ## Example Detail
 [Breadcrumb Pattern](breadcrumb.md)
 
