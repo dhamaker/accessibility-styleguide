@@ -2,7 +2,7 @@
 Simple example of an accessibility styleguide leverageing GitHub for collaboration, version control, and hosting of static site.
 
 ## Example Detail
-[Breadcrumb Pattern](breadcrumbs.md)
+[Breadcrumb Pattern](breadcrumb.md)
 
 ## References
 * [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
