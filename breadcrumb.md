@@ -1,4 +1,11 @@
-# Breadcrumb
+---
+title: Breadcrumb
+tags: navigation, links
+---
+# {{page.title}}
+
+{{page.tags}}
+
 > UX team provides description of pattern purpose and behavior (browse path, hierarchical, other)
 
 ## Example
