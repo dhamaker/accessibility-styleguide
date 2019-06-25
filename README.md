@@ -11,7 +11,7 @@ Simple example of an accessibility styleguide leverageing GitHub for collaborati
 A two level hierarchy based on users mental model.  May need more than one index.  Default Github Site template also supports tagging to support more ad hoc organization.
 
 1. Overview 
-2. Navigation
+2. (Navigation Category)[categories/navigation]
   1. [Pattern Detail - Breadcrumb](breadcrumb.md)
   2. Next pattern
 3. Next Category
