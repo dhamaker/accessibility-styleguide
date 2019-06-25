@@ -6,7 +6,8 @@ Simple example of an accessibility styleguide leverageing GitHub for collaborati
 * You can  customize and themes the expierence using [Jeckyll](https://jekyllrb.com/), an open source static site generator.
 * The site refreshes automatically when you commit new files to the master branch. 
 * It's web content, soe you can include live examples and links to other resources.
-* While example is public, but you can control access on you own, or host the site yourself.
+* While is a public GitHub example, you can control access.  Or, use Jekyll to host the site yourself.
+
 ## Governance Framework
 * GitHub is a collaboration platform. Multiple contributers can work on the same file at the same time by simply creating a local  working branch. When they are done they submit their changes to the maintainer for review using a pull request.  The maintainer can review the proposed changes, compare them to the source, resolve any issues, and commit the changes for publication.
 * Contributers can edit using simple markdown (like a Wiki), HTML, or a combination.
@@ -28,3 +29,5 @@ A two level hierarchy based on users mental model.  Your team may need more than
 * [A11Y Style Guide](https://a11y-style-guide.com/style-guide/)
 * [Material Design Guidelines](https://material.io/design/guidelines-overview/)
 * [WAI-ARIA Authoring Practices 1.1](https://www.w3.org/TR/wai-aria-practices-1.1/#no_aria_better_bad_aria)
+* [Jeckyll](https://jekyllrb.com/)
+* [GitHub Pages](https://pages.github.com/)
