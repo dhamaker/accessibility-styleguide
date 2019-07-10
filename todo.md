@@ -1,6 +1,10 @@
-# Accessibilty Styleguide Template
+---
+Title: Style Guide  TODO
+---
 
-## TODO
+# {{page.title}}
+Accessibilty Styleguide Template
+
 
 1. [ ] Survey past deliverables
 2. [ ] A11y, Salesforce, and Material Design
