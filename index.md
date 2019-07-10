@@ -7,7 +7,7 @@ template: default
 <ul>
   {% for pages in site.pages %}
     <li>
-      <a href="{{ pages.url | absolute_url }}">{{ pages.title }}</a>
+      <a href="{{ pages.url | relative_url }}">{{ pages.title }}</a>
     </li>
   {% endfor %}
 </ul>
