@@ -21,7 +21,7 @@ title: Accessibility Style Guide Taxonomy
   * navigation
   * focus
 
-## Custom components
+## Custom components (+ARIA)
 Creates new features with custom semantics and behaviors.  May changes the native behavior of elements.  Require additional ARIA tag design for accessibility.
   * Accordion
   * Activity messaging
@@ -32,7 +32,7 @@ Creates new features with custom semantics and behaviors.  May changes the nativ
   * Panels 
   * Carousel
   
-## Enhanced components
+## Enhanced components (+ARIA)
 Extends native HTML semantics and behaviors to enhance experience. Require additional ARIA tag design for accessibility.
 * Tabs
 * Forms 
