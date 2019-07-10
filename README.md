@@ -1,5 +1,5 @@
 ---
-title: README
+title: Web Content Style Guide
 ---
 # Web Content Style Guide
 Simple example of an accessibility styleguide leverageing GitHub for collaboration, version control, and hosting of static site.
