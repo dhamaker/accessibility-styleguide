@@ -22,17 +22,18 @@ title: Accessibility Style Guide Taxonomy
   * focus
 
 ## Custom components
-Creates new features with custom semantics and behaviors.  May changes the native behavior of elements.
+Creates new features with custom semantics and behaviors.  May changes the native behavior of elements.  Require additional ARIA tag design for accessibility.
   * Accordion
   * Activity messaging
     * Button with progress messaging
     * Loading spinners
   * Input drag and drop
   * Dialog, modal
+  * Panels 
   * Carousel
   
 ## Enhanced components
-Extends native HTML semantics and behaviors to enhance experience.
+Extends native HTML semantics and behaviors to enhance experience. Require additional ARIA tag design for accessibility.
 * Tabs
 * Forms 
   * Radio selections with customized graphics
@@ -42,6 +43,9 @@ Extends native HTML semantics and behaviors to enhance experience.
   * Input + message, validation 
   * Input with button actions
     * date input
+* Navigation
+  * Breadcrumb
+  * Step or Process Flow
     
   
 ## Standard elements
