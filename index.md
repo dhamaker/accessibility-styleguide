@@ -2,7 +2,9 @@
 title: Accessibiltiy Style Guideline
 template: default
 ---
-#{{page.title}}
+
+# {{page.title}}
+
 <h2>Index</h2>
 <ul>
   {% for pages in site.pages %}
