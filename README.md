@@ -1,7 +1,7 @@
 ---
-title: Web Content Style Guide
+title: About the Style Guide
 ---
-# Web Content Style Guide
+# About the Style Guide
 Simple example of an accessibility styleguide leverageing GitHub for collaboration, version control, and hosting of static site.
 
 ## A Living Guideline
