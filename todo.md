@@ -1,5 +1,5 @@
 ---
-Title: Style Guide  TODO
+title: Style Guide  TODO
 ---
 
 # {{page.title}}
