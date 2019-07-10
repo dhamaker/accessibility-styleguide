@@ -10,6 +10,8 @@ title: Accessibility Style Guide Taxonomy
 * __Consistency__.  Apply your designs and coding conventions consistently.
 
 ## By General Design
+* Consistency
+* Contrast
 * Color
 * Typography
 * Content Structure
@@ -17,7 +19,31 @@ title: Accessibility Style Guide Taxonomy
   * Titles
   * Actions
   * navigation
+  * focus
 
+## Custom components
+Creates new features with custom semantics and behaviors.  May changes the native behavior of elements.
+  * Accordion
+  * Activity messaging
+    * Button with progress messaging
+    * Loading spinners
+  * Input drag and drop
+  * Dialog, modal
+  * Carousel
+  
+## Enhanced components
+Extends native HTML semantics and behaviors to enhance experience.
+* Tabs
+* Forms 
+  * Radio selections with customized graphics
+  * Checkboxs
+  * Input + instructions, descriptions
+  * Input + message, character count
+  * Input + message, validation 
+  * Input with button actions
+    * date input
+    
+  
 ## Standard elements
 
 * Structure
@@ -41,7 +67,4 @@ title: Accessibility Style Guide Taxonomy
 * Media
 * Images
 
-## Special Purpose components
-  * Custom
-  * Carousel
-  * Accordion
+
