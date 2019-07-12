@@ -1,5 +1,5 @@
 ---
-title: Pattern Name
+title: [Pattern Name]
 categories: 
 tags:
 ---
