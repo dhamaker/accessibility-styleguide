@@ -1,7 +1,7 @@
 ---
 layout: pattern
-title: Example:Breadcrumb
-categories: [navigation]
+title: Example:Hierarchical Breadcrumb
+categories: [navigation, breadcrumbs]
 tags: links lists location
 ---
 # {{page.title}}
