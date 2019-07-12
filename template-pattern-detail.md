@@ -1,4 +1,5 @@
 ---
+layout: pattern
 title: Template:Pattern Name
 categories: 
 tags:
