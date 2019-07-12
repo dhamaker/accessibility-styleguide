@@ -1,5 +1,5 @@
 ---
-title: Breadcrumb
+title: Example: Breadcrumb
 categories: navigation
 tags: links lists location
 ---
