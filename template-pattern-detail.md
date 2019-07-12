@@ -1,5 +1,5 @@
 ---
-layout: pattern
+layout: post
 title: Template:Pattern Name
 categories: 
 tags:
