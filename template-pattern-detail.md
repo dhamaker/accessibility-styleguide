@@ -2,7 +2,7 @@
 layout: pattern
 title: Template:Pattern Name
 categories: 
-tags:
+tags: pattern_template
 ---
 
 # {{page.title}}
