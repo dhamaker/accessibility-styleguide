@@ -1,11 +1,10 @@
 ---
-title: Accessibiltiy Style Guideline
+title: Index
 template: default
 ---
 
 # {{page.title}}
 
-<h2>Index</h2>
 <ul>
   {% for pages in site.pages %}
     <li>
