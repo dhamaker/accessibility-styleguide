@@ -1,8 +1,8 @@
 ---
 layout: pattern
 title: Template:Pattern Name
-categories: 
-tags: pattern_template
+categories: pattern_template
+tags: 
 ---
 
 # {{page.title}}
