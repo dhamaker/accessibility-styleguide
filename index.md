@@ -3,12 +3,13 @@ title: Accessibiltiy Style Guideline
 template: default
 ---
 
-<h1>{{page.title}}</h1>
+# {{page.title}}
+
 <h2>Index</h2>
 <ul>
   {% for pages in site.pages %}
     <li>
-      <a href="{{site.url}}/{{ pages.url }}">{{ pages.title }}</a>
+      <a href="{{ pages.url | relative_url }}">{{ pages.title }}</a>
     </li>
   {% endfor %}
 </ul>
