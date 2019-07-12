@@ -1,5 +1,5 @@
 ---
-layout: pattern
+layout: post
 title: Example:Breadcrumb
 categories: navigation
 tags: links lists location
