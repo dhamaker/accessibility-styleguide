@@ -1,6 +1,6 @@
 ---
 title: Index
-template: default
+layout: default
 ---
 
 # {{page.title}}
