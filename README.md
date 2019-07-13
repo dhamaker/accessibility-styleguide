@@ -1,4 +1,5 @@
 ---
+pattern: page
 title: About the Style Guide
 ---
 # About the Style Guide
