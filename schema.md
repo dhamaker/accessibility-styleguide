@@ -1,4 +1,5 @@
 ---
+pattern: page
 title: Accessibility Style Guide Taxonomy
 ---
 # {{page.title}}
