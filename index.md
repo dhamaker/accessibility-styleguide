@@ -13,6 +13,14 @@ template: default
   {% endfor %}
 </ul>
 
+<ul>
+  {% for pattern in site.patterns %}
+    <li>
+      <a href="{{ pattern.url | relative_url }}">{{ pattern.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## Categories
 {% for category in site.categories %}
   <h3>{{ category[0] }}</h3>
