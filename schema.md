@@ -1,6 +1,6 @@
 ---
-pattern: page
 title: Accessibility Style Guide Taxonomy
+pattern: page
 ---
 # {{page.title}}
 ## General Principles
