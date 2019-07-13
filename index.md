@@ -6,18 +6,18 @@ template: default
 # {{page.title}}
 
 <ul>
-  {% for pages in site.pages %}
+  {% for page in site.pages %}
     <li>
-      <a href="{{ pages.url | relative_url }}">{{ pages.title }}</a>
+      <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>
 
 ## Patterns
 <ul>
-  {% for post in site.posts %}
+  {% for pattern in site.patterns %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <a href="{{ pattern.url | relative_url }}">{{ pattern.title }}</a>
     </li>
   {% endfor %}
 </ul>
