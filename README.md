@@ -1,6 +1,6 @@
 ---
-pattern: page
 title: About the Style Guide
+pattern: page
 ---
 # About the Style Guide
 Simple example of an accessibility styleguide leverageing GitHub for collaboration, version control, and hosting of static site.
