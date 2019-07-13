@@ -1,5 +1,5 @@
 ---
-layout: pattern
+layout: post
 title: Example:Hierarchical Breadcrumb
 categories: [navigation, breadcrumbs]
 tags: [links, lists, location]
