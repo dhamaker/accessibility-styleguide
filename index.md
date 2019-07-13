@@ -13,6 +13,7 @@ template: default
   {% endfor %}
 </ul>
 
+## Patterns
 <ul>
   {% for pattern in site.patterns %}
     <li>
