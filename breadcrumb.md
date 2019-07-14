@@ -1,6 +1,6 @@
 ---
 layout: pattern
-title: Example:Hierarchical Breadcrumb
+title: xExample:Hierarchical Breadcrumb
 categories: [navigation, breadcrumbs]
 tags: [links, lists, location]
 ---

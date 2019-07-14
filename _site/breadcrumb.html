@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=f0f4b5a4b20d8d01ba315215f204036c6b049c9e">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>xExample:Hierarchical Breadcrumb | accessibility-styleguide</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="xExample:Hierarchical Breadcrumb" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Design and coding guidelines for web content on [scope of guidelines]" />
+<meta property="og:description" content="Design and coding guidelines for web content on [scope of guidelines]" />
+<link rel="canonical" href="http://localhost:4000/breadcrumb.html" />
+<meta property="og:url" content="http://localhost:4000/breadcrumb.html" />
+<meta property="og:site_name" content="accessibility-styleguide" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/breadcrumb.html","headline":"xExample:Hierarchical Breadcrumb","description":"Design and coding guidelines for web content on [scope of guidelines]","@type":"WebPage","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/dhamaker/accessibility-styleguide">View on GitHub</a>
+
+          <h1 id="project_title">accessibility-styleguide</h1>
+          <h2 id="project_tagline">Design and coding guidelines for web content on [scope of guidelines]</h2>
+
+          
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <a href="https://dhamaker.github.io/accessibility-styleguide/">Index</a> | Pattern
+<h1 id="xexamplehierarchical-breadcrumb">xExample:Hierarchical Breadcrumb</h1>
+
+<p>Tags: linkslistslocation</p>
+
+<blockquote>
+  <p>UX team provides description of pattern purpose and behavior (browse path, hierarchical, other)</p>
+</blockquote>
+
+<h2 id="example">Example</h2>
+<blockquote>
+  <p>UX team provides illustratoin of breadcrumb for easy identification</p>
+</blockquote>
+
+<h2 id="usage">Usage</h2>
+<blockquote>
+  <p>UX team outlines guidelines for component use and related concerns.</p>
+</blockquote>
+
+<ul>
+  <li>Use to indicate the current site hierarchy location to users.</li>
+  <li>more…</li>
+</ul>
+
+<h2 id="accessibility-guideline">Accessibility Guideline</h2>
+<p>Breadcrumbs are custom components that need extra ARIA semantics to be accessible.</p>
+
+<ul>
+  <li>Use native HTML <code class="highlighter-rouge">nav</code> element to contain the breadcrumb, it has an implicit navigation role.</li>
+  <li>Add an <code class="highlighter-rouge">aria-label="breadcrumb"</code> attribute to describe the type of navigation.</li>
+  <li>IF the current location in the breadcrumb is a link, then identify the link state using with <code class="highlighter-rouge">aria-current="page"</code> attribute.</li>
+  <li>Ensure pages use a consistent navigation structure</li>
+</ul>
+
+<details>
+  <summary>References</summary>
+  <ul>
+    <li><a href="https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview#consistent-navigation" target="_blank">WCAG 2.1 3.2.3 Consistent Navigation</a> - Navigational mechanisms that are repeated on multiple Web pages within a set of Web pages occur in the same relative order each time they are repeated, unless a change is initiated by the user. (Level AA)
+    </li>
+    <li><a href="https://www.w3.org/WAI/WCAG21/quickref/?currentsidebar=%23col_overview#consistent-navigation" target="_blank">WCAG 2.1 3.2.4 Consistent Identification</a> - Components that have the same functionality within a set of Web pages are identified consistently. (Level AA)
+    </li>
+    <li><a href="https://www.w3.org/WAI/WCAG20/quickref/?showtechniques=131#navigation-mechanisms-location" target="_blank" data-la-initvishidden="true">WCAG 2.1 - 2.4.8 Location</a> - Information about the user's location within a set of Web pages is available. (Level AAA)
+    </li>
+    <li><a href="https://www.w3.org/TR/wai-aria-practices-1.1/#breadcrumb">WAI-ARIA Authoring Practices 1.1 - 3.4 Breadcrumb</a></li>
+  </ul>
+</details>
+
+<h2 id="interactive-demo">Interactive Demo</h2>
+<blockquote>
+  <p>Embed or link to working code sample</p>
+</blockquote>
+
+<h2 id="code-sample">Code Sample</h2>
+<blockquote>
+  <p>Reference to your framework API docs or library.</p>
+</blockquote>
+
+<p>OR</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;nav aria-label="breadcrumb"&gt;
+  Developer's sample code goes here.
+&lt;/nav&gt;
+</code></pre></div></div>
+
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        
+        <p class="copyright">accessibility-styleguide maintained by <a href="https://github.com/dhamaker">dhamaker</a></p>
+        
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+    
+  </body>
+</html>
