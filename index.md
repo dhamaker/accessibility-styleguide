@@ -5,8 +5,9 @@ layout: default
 
 # {{page.title}}
 
+{% assign pages = site.pages | where: "layout", "page" %}
 <ul>
-  {% for page in site.pages %}
+  {% for page in pages  %}
     <li>
       <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
     </li>
@@ -14,20 +15,21 @@ layout: default
 </ul>
 
 ## Patterns
+{% assign patterns = site.pages | where: "layout", "pattern" %}
 <ul>
-  {% for pattern in site.patterns %}
+  {% for page in patterns  %}
     <li>
-      <a href="{{ pattern.url | relative_url }}">{{ pattern.title }}</a>
+      <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>
 
-## Categories
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for pattern in category[1] %}
-      <li><a href="{{ pattern.url }}">{{ pattern.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+### Navigation
+{% assign patterns = site.pages | where: "categories", "navigation" %}
+<ul>
+  {% for page in patterns  %}
+    <li>
+      <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
