@@ -4,7 +4,7 @@ In the public business, everyone is responsible for equal access. Web Accessibil
 When we are successful, our design benefits everyone: like yellow curb cuts.
 
 ## Who job is it?
-It’s everyone's.  Product Managers, Analysts, Writers, Designers, Developers, Researchers, Customer Service. Accessibility touches every activity digital product development activity planning, analysis, architecture, design, writing, engineering, development, quality assurance, and support.
+It’s everyone's.  Product Managers, Analysts, Writers, Designers, Developers, Researchers, Customer Service. And it is part of every activity in digital product development: planning, analysis, architecture, design, writing, engineering, development, quality assurance, and support.
 
 https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown
 
