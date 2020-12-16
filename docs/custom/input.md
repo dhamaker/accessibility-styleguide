@@ -2,6 +2,7 @@
 title: Input Controls
 layout: page
 description: Basic input comp
+categories: custom
 ---
 
 # {{page.title}}
