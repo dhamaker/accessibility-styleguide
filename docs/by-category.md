@@ -4,9 +4,9 @@ layout: page
 permalink: /category/
 sitemap: false
 ---
-<h1>{{page.title}}</h1>
+# {{page.title}}
 
-{% assign categories = site.categories %}
-{% for category in categories %}
-{{ category }}
+{% for category in sit.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  <p>{{ category_name }}</p>
 {% endfor %}
