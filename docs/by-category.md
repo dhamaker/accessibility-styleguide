@@ -1,5 +1,5 @@
 ---
-title: Patterns by category 2
+title: Patterns by category 3
 layout: page
 permalink: /category/
 sitemap: false
